@@ -1,6 +1,12 @@
 # CAD Designs Portfolio
 
 **Professional portfolio of CAD design, mechanical engineering, aerospace engineering, and manufacturing-focused projects developed using SOLIDWORKS, AutoCAD, and additive manufacturing workflows.**
+<img width="475" height="214" alt="final-assembled-UAV" src="https://github.com/user-attachments/assets/30221704-b49c-4187-b730-4dade8bf6fca" />
+<img width="1685" height="899" alt="full-assembly-front-view" src="https://github.com/user-attachments/assets/16078fee-8f8a-4547-bdd9-947045411796" />
+<img width="1685" height="899" alt="full-assembly-side-view" src="https://github.com/user-attachments/assets/10e7e32a-5184-40c2-98c9-b750f9cd2759" />
+<img width="1685" height="899" alt="full-assembly-top-view" src="https://github.com/user-attachments/assets/85a569c4-a077-468b-9f8a-e09c0f3bcbe7" />
+<img width="1685" height="899" alt="exploded-view" src="https://github.com/user-attachments/assets/0372d4e9-2671-47da-932c-6599da944379" />
+
 
 This repository contains a growing collection of engineering projects covering:
 - CAD modelling
