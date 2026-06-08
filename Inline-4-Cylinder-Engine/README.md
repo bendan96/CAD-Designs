@@ -29,23 +29,23 @@ The model demonstrates piston motion, crankshaft rotation, and connecting rod dy
 ## 🖼️ Views
 
 ### Isometric View
-![Isometric View](Images/drawings.png)
+![Isometric View](Final_assembly_engine_Isometric_view.png)
 
 ### Front View
-![Front View](Images/Final assembly engine_Front view.png)
+![Front View](Images/Final_assembly_engine_Front_view.png)
 
 ### Side View
-![Side View](Images/Final assembly engine_Side view.png)
+![Side View](Images/Final_assembly_engine_Side_view.png)
 
 ### Top View
-![Top View](Images/Final assembly engine_Top view.png)
+![Top View](Images/Final_assembly_engine_Top_view.png)
 
 ---
 
 ## 🎬 Animation
 A motion study of the engine operation is included:
 
-[Watch Animation](Animation/Final-assembly-engine.mp4)
+[Watch Animation](Animation/Final_assembly_engine_motion.mp4)
 
 ---
 
