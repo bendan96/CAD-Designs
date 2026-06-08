@@ -29,7 +29,7 @@ The model demonstrates piston motion, crankshaft rotation, and connecting rod dy
 ## 🖼️ Views
 
 ### Isometric View
-![Isometric View](Images/Final assembly engine_Isometric view.png)
+![Isometric View](Images/drawings.png)
 
 ### Front View
 ![Front View](Images/Final assembly engine_Front view.png)
