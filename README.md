@@ -79,10 +79,29 @@ The portfolio combines aerospace engineering, mechanical design, and manufacturi
 ```bash
 CAD-Designs/
 ├── README.md                         ← You are here
+│
 ├── Low-Speed-UAV-Design/
 │   ├── summary/
 │   ├── cad-design/
 │   ├── figures/
 │   ├── Manufacturing-strategy/
 │   └── README.md
+│
+├── Inline-4-Cylinder-Engine/
+│   ├── summary/
+│   ├── cad-design/
+│   │   ├── assembly/
+│   │   └── parts/
+│   │
+│   ├── figures/
+│   │   ├── isometric-view.png
+│   │   ├── front-view.png
+│   │   ├── side-view.png
+│   │   ├── top-view.png
+│   │
+│   ├── animation/
+│   │   └── engine-motion.mp4
+│   │
+│   └── README.md
+│
 └── ...
