@@ -50,8 +50,7 @@ A motion study of the engine operation is included:
 ---
 
 ## 🛠️ Software Used
-- CAD Software: *(e.g., SolidWorks / Fusion 360 / Inventor)*
-- Rendering: *(optional if used)*
+- CAD Software: *SolidWorks*
 
 ---
 
@@ -60,7 +59,7 @@ A motion study of the engine operation is included:
 - Motion simulation
 - Constraint management
 - Engineering visualization
-- CAD rendering techniques
+
 
 ---
 
@@ -76,9 +75,3 @@ A motion study of the engine operation is included:
 This model is intended for educational and demonstration purposes, focusing on core mechanical principles rather than manufacturing precision.
 
 ---
-
-## 👤 Author
-**Benjamin Daniel**
-Postgraduate Engineer | CAD Design Portfolio
-
-GitHub: https://github.com/bendan96
